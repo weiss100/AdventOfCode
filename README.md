@@ -1,3 +1,3 @@
-# AdventOfCode
+# AdventOfCode 2018
 
-My https://adventofcode.com/2018/ experiments
+Stefan's little https://adventofcode.com/2018/ experiments in Python.
